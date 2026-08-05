@@ -107,9 +107,19 @@ An animated, in-depth look at everything above — live stats, project breakdown
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=begoneeraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=begoneeraj&theme=tokyonight&hide_border=true&background=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=begoneeraj&show_icons=true&hide_border=true&bg_color=05070d&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=begoneeraj&hide_border=true&background=05070d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="48%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=begoneeraj&layout=compact&hide_border=true&bg_color=05070d&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="48%"/>
+
+</div>
+
+<br/>
+
+### contribution graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/begoneeraj/begoneeraj/output/snake-dark.svg" width="100%" />
 </div>
 
 <br/>
