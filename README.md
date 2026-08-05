@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+%2B+full-stack+dev;fact-checking+misinformation+with+LLMs;Python+%C2%B7+TypeScript+%C2%B7+Flutter;shipping+solo+projects+end-to-end&font=Fira+Code&center=true&width=520&height=40&color=38bdf8&vCenter=true&size=20&pause=1800" alt="Typing SVG" />
 </a>
 
+[![Portfolio](https://img.shields.io/badge/portfolio-begoneeraj.github.io-38bdf8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f172a)](https://begoneeraj.github.io)
 [![Email](https://img.shields.io/badge/email-pushprajsingh2007prashant%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:pushprajsingh2007prashant@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-begoneeraj-1e293b?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/begoneeraj)
 
@@ -65,6 +66,9 @@ Official bilingual (EN/HI) site for a govt-accredited driving training centre �
 
 </td>
 <td width="50%" valign="top">
+
+**✨ [Full portfolio →](https://begoneeraj.github.io)**
+An animated, in-depth look at everything above — live stats, project breakdowns, and how to reach me.
 
 </td>
 </tr>
