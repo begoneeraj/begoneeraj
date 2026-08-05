@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 34" width="480" height="34">
+  <style>
+    .line {
+      opacity: 0;
+      font: 600 16px ui-monospace, SFMono-Regular, Menlo, Consolas, "Courier New", monospace;
+      fill: #38bdf8;
+      animation: cycle 14s infinite;
+    }
+    @keyframes cycle {
+      0%   { opacity: 0; transform: translateY(6px); }
+      3%   { opacity: 1; transform: translateY(0); }
+      22%  { opacity: 1; transform: translateY(0); }
+      25%  { opacity: 0; transform: translateY(-6px); }
+      100% { opacity: 0; }
+    }
+    .l0 { animation-delay: 0s; }
+    .l1 { animation-delay: 3.5s; }
+    .l2 { animation-delay: 7s; }
+    .l3 { animation-delay: 10.5s; }
+  </style>
+  <text x="0" y="22" class="line l0">AI + full-stack dev</text>
+  <text x="0" y="22" class="line l1">fact-checking misinformation with LLMs</text>
+  <text x="0" y="22" class="line l2">Python &#183; TypeScript &#183; Flutter</text>
+  <text x="0" y="22" class="line l3">shipping solo projects end to end</text>
+</svg>
