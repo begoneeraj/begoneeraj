@@ -19,9 +19,12 @@ jobs:
       - run: node scripts/generate-stats-card.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: node scripts/generate-streak-card.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/stats-card.svg
-          git diff --staged --quiet || git commit -m "chore: update stats card"
+          git add assets/stats-card.svg assets/streak-card.svg
+          git diff --staged --quiet || git commit -m "chore: update stats cards"
           git push
