@@ -106,6 +106,7 @@ An animated, in-depth look at everything above — live stats, project breakdown
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=begoneeraj&hide_border=true&background=05070d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=begoneeraj&bg_color=05070d&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&chart_color=38bdf8" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=begoneeraj&bg_color=05070d&color=94a3b8&line=38bdf8&point=38bdf8&area=true&area_color=38bdf8&hide_border=true&custom_title=contribution%20activity" width="100%"/>
 
