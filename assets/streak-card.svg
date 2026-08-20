@@ -7,13 +7,13 @@
     <line x1="267" y1="16" x2="267" y2="104" stroke="#1e293b" stroke-width="1"/>
     <line x1="533" y1="16" x2="533" y2="104" stroke="#1e293b" stroke-width="1"/>
     
-    <text x="133" y="56" text-anchor="middle" font-size="28" font-weight="700" fill="#e2e8f0">100</text>
+    <text x="133" y="56" text-anchor="middle" font-size="28" font-weight="700" fill="#e2e8f0">104</text>
     <text x="133" y="78" text-anchor="middle" font-size="10.5" letter-spacing="1.2" fill="#64748b">TOTAL CONTRIBUTIONS</text>
     
     
-    <text x="400" y="56" text-anchor="middle" font-size="28" font-weight="700" fill="#e2e8f0">1</text>
+    <text x="400" y="56" text-anchor="middle" font-size="28" font-weight="700" fill="#e2e8f0">2</text>
     <text x="400" y="78" text-anchor="middle" font-size="10.5" letter-spacing="1.2" fill="#64748b">CURRENT STREAK</text>
-    <text x="400" y="96" text-anchor="middle" font-size="10" fill="#475569">Aug 19, 2026 – Aug 19, 2026</text>
+    <text x="400" y="96" text-anchor="middle" font-size="10" fill="#475569">Aug 19, 2026 – Aug 20, 2026</text>
     
     <text x="667" y="56" text-anchor="middle" font-size="28" font-weight="700" fill="#e2e8f0">4</text>
     <text x="667" y="78" text-anchor="middle" font-size="10.5" letter-spacing="1.2" fill="#64748b">LONGEST STREAK</text>
