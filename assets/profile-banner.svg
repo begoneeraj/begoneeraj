@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Pushpraj Singh Prashant — AI, web and mobile</title>
   <desc id="desc">Building useful things, end to end. A dark navy banner with mint typography and an abstract connected orbit.</desc>
+  <style>@keyframes orbit{to{transform:rotate(360deg)}}.orbit{transform-origin:1000px 180px;animation:orbit 24s linear infinite}@media(prefers-reduced-motion:reduce){.orbit{animation:none}}</style>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2b"/><stop offset="1" stop-color="#080e18"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#5eead4" stop-opacity=".12"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
@@ -9,7 +10,7 @@
   <rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#bg)" stroke="#243648"/>
   <rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#grid)"/>
   <circle cx="1000" cy="190" r="230" fill="url(#glow)"/>
-  <g fill="none" stroke="#5eead4">
+  <g class="orbit" fill="none" stroke="#5eead4">
     <ellipse cx="1000" cy="180" rx="132" ry="49" transform="rotate(-45 1000 180)" stroke-opacity=".45"/>
     <ellipse cx="1000" cy="180" rx="132" ry="49" transform="rotate(45 1000 180)" stroke-opacity=".3"/>
     <circle cx="1000" cy="180" r="87" stroke-opacity=".2"/>
