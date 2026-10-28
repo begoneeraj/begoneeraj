@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Pushpraj Singh Prashant — AI, web and mobile</title>
+  <desc id="desc">Building useful things, end to end. A dark navy banner with mint typography and an abstract connected orbit.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2b"/><stop offset="1" stop-color="#080e18"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#5eead4" stop-opacity=".12"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 H 0 V 40" fill="none" stroke="#8aa4b8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#bg)" stroke="#243648"/>
+  <rect x="1" y="1" width="1198" height="378" rx="24" fill="url(#grid)"/>
+  <circle cx="1000" cy="190" r="230" fill="url(#glow)"/>
+  <g fill="none" stroke="#5eead4">
+    <ellipse cx="1000" cy="180" rx="132" ry="49" transform="rotate(-45 1000 180)" stroke-opacity=".45"/>
+    <ellipse cx="1000" cy="180" rx="132" ry="49" transform="rotate(45 1000 180)" stroke-opacity=".3"/>
+    <circle cx="1000" cy="180" r="87" stroke-opacity=".2"/>
+    <path d="m975 166-16 14 16 14m50-28 16 14-16 14m-19-35-12 42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1093" cy="87" r="6" fill="#5eead4"/>
+  <circle cx="907" cy="273" r="4" fill="#b5a4fb"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="60" y="65" fill="#5eead4" font-size="14" font-family="Consolas, monospace" letter-spacing="3">BEGONEERAJ / DEVELOPER</text>
+    <text x="60" y="133" fill="#f0f6fc" font-size="43" font-weight="700">Pushpraj Singh Prashant</text>
+    <text x="60" y="193" fill="#d8e7ef" font-size="32" font-weight="500">Building useful things,</text>
+    <text x="60" y="237" fill="#5eead4" font-size="32" font-weight="500">end to end.</text>
+    <path d="M60 274H760" stroke="#2a3b4b"/>
+    <text x="60" y="315" fill="#a4b5c6" font-size="17">AI + FULL-STACK</text>
+    <circle cx="244" cy="309" r="2" fill="#5eead4"/>
+    <text x="265" y="315" fill="#a4b5c6" font-size="17">WEB + MOBILE</text>
+    <text x="944" y="330" fill="#8297aa" font-size="13" font-family="Consolas, monospace">idea → ship</text>
+  </g>
+</svg>
