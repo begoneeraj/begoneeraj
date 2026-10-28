@@ -14,7 +14,7 @@
 
 ## Hey, I'm Pushpraj.
 
-I build across **AI, web, and mobile** — from checking news claims to connecting hospital workflows and turning everyday tasks into a game. I like owning the whole build: the interface, the API, the database, and the details that make them work together.
+I build across **AI, web, and mobile** — from checking news claims to assessing import risks and turning everyday tasks into a game. I like owning the whole build: the interface, the API, the database, and the details that make them work together.
 
 Python for AI and backend work. TypeScript for the web. Flutter when the idea belongs on a phone.
 
@@ -34,11 +34,11 @@ Python for AI and backend work. TypeScript for the web. Flutter when the idea be
       <p><a href="https://github.com/begoneeraj/Newsup">Explore code</a> · <a href="https://github.com/begoneeraj/Newsup/releases">Android releases</a></p>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / HEALTHCARE + WEB</sub>
-      <h3><a href="https://github.com/begoneeraj/MediConnect">MediConnect ↗</a></h3>
-      <p>A hospital coordination platform with bed management, patient records, and emergency workflows, plus an interactive demo sandbox.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code></p>
-      <p><a href="https://github.com/begoneeraj/MediConnect">Explore code</a></p>
+      <sub>02 / TEAM PROJECT · CONTRIBUTOR</sub>
+      <h3><a href="https://github.com/shivan2310/import_safe">ImportSafe ↗</a></h3>
+      <p>Contributor to ImportSafe, built by Team Vinland Crusaders for HackIIITD 2026. Helps Indian buyers check product import risks, certificate requirements, and estimated landed costs with evidence-backed reports.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>Python</code></p>
+      <p><a href="https://github.com/shivan2310/import_safe">Explore code</a></p>
     </td>
   </tr>
   <tr>
