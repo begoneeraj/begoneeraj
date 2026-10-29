@@ -24,6 +24,10 @@ Python for AI and backend work. TypeScript for the web. Flutter when the idea be
 
 ## Selected work
 
+<p align="center">
+  <img src="./assets/build-arcade.svg" width="100%" alt="My build arcade: an animated mint comet travels between TruthLens, ImportSafe, Life RPG and Decoy Drop." />
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -69,6 +73,20 @@ Python for AI and backend work. TypeScript for the web. Flutter when the idea be
 | **Interfaces** | React · Next.js · Flutter · Tailwind CSS |
 | **Backend & data** | Node.js · Express · PostgreSQL · Supabase · Prisma |
 | **AI** | Groq · Llama |
+
+<br />
+
+## Feed the snake
+
+One contribution at a time.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/begoneeraj/begoneeraj/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/begoneeraj/begoneeraj/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/begoneeraj/begoneeraj/output/snake.svg" width="100%" alt="An animated snake eats my GitHub contribution graph, refreshed every six hours." />
+  </picture>
+</p>
 
 <br />
 
